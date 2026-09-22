@@ -13,7 +13,7 @@ Current components selected for the prototype:
 - [x] **Display Prototype:** 0.96" OLED Display (SSD1306, I2C interface) for dual-stage testing
 - [ ] **Camera Module:** 18-pin standalone OV2640 camera board (with built-in 12MHz oscillator) *(Planned)*
 - [x] **Inputs:** 3x tactile buttons connected via a custom resistor ladder to a single analog GPIO (ADC Pin Optimization)
-- [x] **Enclosure:** Custom 3D-printed chassis (Black Kingroon PETG, 0.16mm layer height, printed on Ender 3 V3 SE)
+- [x] **Enclosure:** Custom 3D-printed chassis (Black Kingroon PETG, 0.2mm layer height, printed on Ender 3 V3 SE)
 - [x] **Network:** Seamless mobile hot-spot routing via Mi 11 Lite (No local servers required for portability)
 
 
